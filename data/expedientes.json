@@ -1,0 +1,391 @@
+[
+  {
+    "id": "7a2ef2e3",
+    "fecha": "2026-09-09T23:52:03.256Z",
+    "paciente": {
+      "nombre": "Johany Montes",
+      "cedula": "9-132-145",
+      "edad": "20",
+      "sexo": "F"
+    },
+    "descripcion": "Mujer joven de 20 anos con problemas de salud mental, me comenta que quiso suicidarse hace 4 dias con medicamentos, posible sobredosis y contaminacion estomacal",
+    "urgenciaFinal": "emergencia",
+    "urgenciaIA": "hoy",
+    "alertasProtocolo": [
+      "Riesgo de autolesión: atención inmediata"
+    ],
+    "respuesta": "URGENCIA: hoy\nHALLAZGOS: sobredosis con contaminación estomacal\nVIGILAR: signos de alarma como moretones, hemorragia o confusión\nPREGUNTAR: datos de último ingestro y estado actual\nREFERIR A: Equipo de Salud Mental",
+    "fuentes": [
+      {
+        "fuente": "MINSA-normativa-salud-mental-2022",
+        "score": 0.612
+      },
+      {
+        "fuente": "MINSA-normativa-salud-mental-2022",
+        "score": 0.585
+      },
+      {
+        "fuente": "MINSA-normativa-salud-mental-2022",
+        "score": 0.56
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.557
+      }
+    ],
+    "antecedentesUsados": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T23:52:03.252Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 4879,
+      "promptTokens": 709,
+      "tokensGenerados": 697,
+      "tokensRespuesta": 697,
+      "tokensRazonamiento": 623,
+      "ttftMs": 3838,
+      "tokensPorSegundo": 11.54,
+      "totalMs": 65937
+    }
+  },
+  {
+    "id": "938609af",
+    "fecha": "2026-09-09T20:12:25.821Z",
+    "paciente": {
+      "nombre": "Luis Garrido",
+      "cedula": "8-938-223",
+      "edad": "32",
+      "sexo": "F"
+    },
+    "descripcion": "Adulto de 32 anos acaba de recibir un esuguince de primer grado en el tobillo, ya se aplico vendaje",
+    "urgenciaFinal": "hoy",
+    "urgenciaIA": "hoy",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: hoy\nHALLAZGOS: herida superficial en tobillo\nVIGILAR: signos de alarma como sangrado excesivo\nPREGUNTAR: datos como sangrado o dolor\nREFERIR: a puesto de salud\n\n[4]",
+    "fuentes": [
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.588
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.55
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.53
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.506
+      }
+    ],
+    "antecedentesUsados": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T20:12:25.818Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 4285,
+      "promptTokens": 852,
+      "tokensGenerados": 1072,
+      "tokensRespuesta": 1072,
+      "tokensRazonamiento": 1009,
+      "ttftMs": 3876,
+      "tokensPorSegundo": 15.42,
+      "totalMs": 74767
+    }
+  },
+  {
+    "id": "3e637612",
+    "fecha": "2026-09-09T20:09:11.908Z",
+    "paciente": {
+      "nombre": "Elcira Caicedo",
+      "cedula": "8-388-216",
+      "edad": "55",
+      "sexo": "F"
+    },
+    "descripcion": "Mujer mayor de 55 anos, acaba de accidentarse, tiene trauma en el cuello y no puede moverse bien, 2 fracturas en los brazos y secuelas de latigazo.",
+    "urgenciaFinal": "emergencia",
+    "urgenciaIA": "emergencia",
+    "alertasProtocolo": [
+      "Déficit neurológico agudo: posible ACV",
+      "No carga peso o no moviliza: evaluar hoy"
+    ],
+    "respuesta": "URGENCIA: emergencia\nHALLAZGOS: 2 fracturas en brazos, secuelas de latigazo\nVIGILAR: dolor intenso, rigidez cervical\nPREGUNTAR: sensibilidad, dolor, movilidad\nREFERIR A: centro de traumatología",
+    "fuentes": [
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.562
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.525
+      },
+      {
+        "fuente": "criterios-triaje-centinela",
+        "score": 0.516
+      },
+      {
+        "fuente": "MINSA-influenza-2024",
+        "score": 0.504
+      }
+    ],
+    "antecedentesUsados": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T20:09:11.905Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 4285,
+      "promptTokens": 924,
+      "tokensGenerados": 670,
+      "tokensRespuesta": 670,
+      "tokensRazonamiento": 601,
+      "ttftMs": 4281,
+      "tokensPorSegundo": 15.64,
+      "totalMs": 48375
+    }
+  },
+  {
+    "id": "99c76525",
+    "fecha": "2026-09-09T11:49:54.632Z",
+    "paciente": {
+      "nombre": "Maria Sarmiento",
+      "cedula": "8-234-1822",
+      "edad": "23",
+      "sexo": "F"
+    },
+    "descripcion": "joven de 20 años, trauma de rodilla hace 2 días, no puede apoyar el pie, rodilla hinchada con salida de líquido, dolor 8/10",
+    "urgenciaFinal": "hoy",
+    "urgenciaIA": "hoy",
+    "alertasProtocolo": [
+      "No carga peso o no moviliza: evaluar hoy",
+      "Dolor intenso: evaluar hoy"
+    ],
+    "respuesta": "URGENCIA: hoy\nVIGILAR: fiebre, hinchazón espaljada, dolor en cadera\nPREGUNTAR: si hay dolor o rigidez\nREFERIR: clínica de traumatología\nFragmento: 3",
+    "fuentes": [],
+    "antecedentesUsados": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T11:49:54.628Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 4648,
+      "promptTokens": 406,
+      "tokensGenerados": 763,
+      "tokensRespuesta": 763,
+      "tokensRazonamiento": 703,
+      "ttftMs": 1967,
+      "tokensPorSegundo": 13.94,
+      "totalMs": 57870
+    }
+  },
+  {
+    "id": "8b1823ba",
+    "fecha": "2026-09-09T10:58:47.324Z",
+    "paciente": {
+      "nombre": "Victor Montes",
+      "cedula": "8-1088-1321",
+      "edad": "20",
+      "sexo": "M"
+    },
+    "descripcion": "estamos hablando de que no puede caminar, le esta saliendo liquido, hay que ponerle ferula o yeso, drenarle, medicarlo contra el dolor, referir al ortopeda, etc, no es de espera",
+    "urgenciaFinal": "espera",
+    "urgenciaIA": "espera",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: espera  \nHALLAZGOS: fluido en la lesión, dolor moderado  \nVIGILAR: signos de infección (fiebre, calor, pus)  \nPREGUNTAR: vacuna tetán, longitud del agujero, duración de la herida  \nREFERIR A: ortopedia",
+    "fuentes": [
+      {
+        "fuente": "ejemplo-crisis-hipertensiva",
+        "score": 0.508
+      }
+    ],
+    "antecedentesUsados": [
+      "6444ab0c"
+    ],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T10:58:47.322Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 5716,
+      "promptTokens": 607,
+      "tokensGenerados": 677,
+      "tokensRespuesta": 677,
+      "tokensRazonamiento": 599,
+      "ttftMs": 2891,
+      "tokensPorSegundo": 13.32,
+      "totalMs": 55130
+    }
+  },
+  {
+    "id": "6444ab0c",
+    "fecha": "2026-09-09T10:54:53.861Z",
+    "paciente": {
+      "nombre": "Victor Montes",
+      "cedula": "8-1088-1321",
+      "edad": "20",
+      "sexo": "M"
+    },
+    "descripcion": "Joven de 20 anos con lesion en la rodilla por ligamento cruzados, atencion general, no se ha tomado medidas solo medicamentos",
+    "urgenciaFinal": "espera",
+    "urgenciaIA": "espera",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: espera\nHALLAZGOS: lesión en rodilla, ligamento cruzado (infrapatular/medial), atención básica\nVIGILAR: aumento de dolor, hinchazón, inestabilidad al peso\nPREGUNTAR: descripción del incidente, presencia de hinchazón\nREFERIR A: clínica de traumatología [fragmento 3.2]\n\nURGENCIA: espera\nHALLAZGOS: lesión en rodilla, ligamento cruzado (infrapatular/medial), atención básica\nVIGILAR: aumento de dolor, hinchazón, inestabilidad al peso\nPREGUNTAR: descripción del incidente\nREFERIR A: clínica de traumatología [fragmento 3.2]\n\nURGENCIA: espera\nHALLAZGOS: lesión en rodilla, ligamento cruzado (infrapatular/medial), atención básica\nVIGILAR: aumento de dolor, hinchazón, inestabilidad al peso\nPREGUNTAR: descripción del incidente\nREFERIR A: clínica de traumatología [fragmento 3.2]\n\nURGENCIA: espera\nHALLAZGOS: lesión en rodilla, ligamento cruzado (infrapatular/medial), atención básica\nVIGILAR: aumento de dolor, hinchazón, inestabilidad al peso\nPREGUNTAR: descripción del incidente\nREFERIR A: clínica de traumatología [fragmento 3.2]",
+    "fuentes": [],
+    "antecedentesUsados": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T10:54:53.856Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 5716,
+      "promptTokens": 395,
+      "tokensGenerados": 604,
+      "tokensRespuesta": 604,
+      "tokensRazonamiento": 253,
+      "ttftMs": 1959,
+      "tokensPorSegundo": 12.97,
+      "totalMs": 51625
+    }
+  },
+  {
+    "id": "43a6cb54",
+    "fecha": "2026-09-09T10:22:25.101Z",
+    "paciente": {
+      "nombre": "Josefina Duarte",
+      "cedula": "",
+      "edad": "63",
+      "sexo": "F"
+    },
+    "descripcion": "mi paciente es estitico, no defeca bien y ya fue recetado con psyllium para ayudarle con la evacuacion. presenta hinchazon estomacal y tiene gastritis",
+    "urgenciaFinal": "espera",
+    "urgenciaIA": "espera",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: espera\nHALLAZGOS: distensión abdominal, estreñimiento, gastritis\nVIGILAR: dolor intenso, vómitos, sangre, distensión creciente\nPREGUNTAR: si toma otros medicamentos, duración de síntomas\nREFERIR A: consultorio de turno de gastroenterología",
+    "fuentes": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T10:22:25.099Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 4677,
+      "promptTokens": 406,
+      "tokensGenerados": 473,
+      "tokensRespuesta": 473,
+      "tokensRazonamiento": 389,
+      "ttftMs": 1893,
+      "tokensPorSegundo": 14.62,
+      "totalMs": 35344
+    }
+  },
+  {
+    "id": "0fe1f9ef",
+    "fecha": "2026-09-09T10:09:45.672Z",
+    "paciente": {
+      "nombre": "Jhezrrel Delgado",
+      "cedula": "",
+      "edad": "20",
+      "sexo": "M"
+    },
+    "descripcion": "joven de 20 que necesita incapacidad medica, tuve un accidente en moto sin fracturas pero con quemadura por friccion grado 1. ya se trato limpieza de herida e inyectable.",
+    "urgenciaFinal": "espera",
+    "urgenciaIA": "espera",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: espera\nHallazgos: quemadura superficial de grado 1\nVIGILAR: signos de infección\nPREGUNTAR: síntomas como dolor persistente o hinchazón\nREFERIR A: servicio de atenciones dermatológicas",
+    "fuentes": [],
+    "pensamiento": null,
+    "metricas": {
+      "fecha": "2026-09-09T10:09:45.669Z",
+      "operacion": "triaje",
+      "modelo": {
+        "nombre": "QVAC MedPsy-1.7B",
+        "repo": "qvac/MedPsy-1.7B-GGUF",
+        "archivo": "medpsy-1.7b-q4_k_m-imat.gguf",
+        "cuantizacion": "Q4_K_M (imatrix)",
+        "constanteSdk": "HEALTHCARE_1_7B_MEDICAL_Q4_K_M"
+      },
+      "dispositivo": "gpu",
+      "cargaModeloMs": 5109,
+      "promptTokens": 413,
+      "tokensGenerados": 945,
+      "tokensRespuesta": 945,
+      "tokensRazonamiento": 880,
+      "ttftMs": 1974,
+      "tokensPorSegundo": 14.29,
+      "totalMs": 69350
+    }
+  },
+  {
+    "id": "c99638c7",
+    "fecha": "2026-09-09T09:55:01.023Z",
+    "paciente": {
+      "nombre": "Jorge Rodas",
+      "cedula": "",
+      "edad": "22",
+      "sexo": "M"
+    },
+    "descripcion": "Hombre de 22 anos, contextura delgada, no en sobrepeso, tiene gripe y congestion nasal, dolor de garganta 6/10.",
+    "urgenciaFinal": "espera",
+    "urgenciaIA": "espera",
+    "alertasProtocolo": [],
+    "respuesta": "URGENCIA: espera\nHallazgos: congestión nasal, dolor de garganta 6/10\nVIGILAR: dificultad para tragar, fiebre >38°C, dolor extremo\nPREGUNTAR: ¿tiene problemas de deglución? ¿temor respiratoria?\nReferir a: consultorio general de hoy\nFragmento: 2",
+    "fuentes": [],
+    "metricas": {
+      "ttftMs": 2052,
+      "tokensPorSegundo": 14.42,
+      "totalMs": 45533
+    }
+  }
+]

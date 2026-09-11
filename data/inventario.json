@@ -1,0 +1,30 @@
+[
+  {
+    "id": "152efa7e",
+    "nombre": "Metformina",
+    "marca": "",
+    "concentracion": "850 mg",
+    "forma": "tableta",
+    "lote": "",
+    "vence": "n/a",
+    "laboratorio": "Pisa",
+    "cantidad": 30,
+    "origen": "foto",
+    "creado": "2026-09-09T20:18:56.110Z",
+    "actualizado": "2026-09-09T20:19:03.679Z"
+  },
+  {
+    "id": "5eb20c8d",
+    "nombre": "Indapamida",
+    "marca": "Lorvas",
+    "concentracion": "",
+    "forma": "tableta",
+    "lote": "IBERACION",
+    "vence": "",
+    "laboratorio": "",
+    "cantidad": 10,
+    "origen": "foto",
+    "creado": "2026-09-09T23:58:29.485Z",
+    "actualizado": "2026-09-09T23:58:38.351Z"
+  }
+]

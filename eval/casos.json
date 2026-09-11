@@ -1,0 +1,17 @@
+[
+  { "id": 1, "sintetico": true, "esperado": "emergencia", "criterios": ["dolor torácico", "signo de alarma cardiovascular"], "descripcion": "hombre de 58 años, dolor opresivo en el pecho desde hace 30 minutos que se corre al brazo izquierdo, sudoración fría, náuseas" },
+  { "id": 2, "sintetico": true, "esperado": "emergencia", "criterios": ["déficit neurológico agudo", "sospecha de ACV"], "descripcion": "mujer de 70 años, desde hace 1 hora habla arrastrada, cara caída del lado derecho, no puede mover el brazo derecho" },
+  { "id": 3, "sintetico": true, "esperado": "emergencia", "criterios": ["presión en rango crítico", "síntomas neurológicos"], "descripcion": "mujer de 45 años, dolor de cabeza fuerte desde hace 3 días, visión borrosa, presión 170/110" },
+  { "id": 4, "sintetico": true, "esperado": "emergencia", "criterios": ["emergencia obstétrica"], "descripcion": "embarazada de 32 semanas, sangrado vaginal abundante desde hace 2 horas, dolor fuerte en el vientre" },
+  { "id": 5, "sintetico": true, "esperado": "emergencia", "criterios": ["lactante con signo de peligro"], "descripcion": "bebé de 2 meses, no come desde ayer, muy dormido, difícil de despertar, fiebre 38.5" },
+  { "id": 6, "sintetico": true, "esperado": "emergencia", "criterios": ["anafilaxia"], "descripcion": "joven de 22 años, después de comer camarones se le hinchó la cara y los labios, le cuesta respirar, ronchas en todo el cuerpo" },
+  { "id": 7, "sintetico": true, "esperado": "emergencia", "criterios": ["hemorragia"], "descripcion": "hombre de 35 años, herida profunda en el muslo con machete, sangrado abundante que no para con presión" },
+  { "id": 8, "sintetico": true, "esperado": "emergencia", "criterios": ["dificultad respiratoria grave"], "descripcion": "mujer de 28 años con asma, dificultad para respirar desde hace 1 hora, no puede terminar frases, labios morados" },
+  { "id": 9, "sintetico": true, "esperado": "hoy", "criterios": ["fiebre alta", "infección probable"], "descripcion": "mujer de 40 años, fiebre de 39 desde hace 3 días, dolor de cuerpo, tos con flema verde" },
+  { "id": 10, "sintetico": true, "esperado": "hoy", "criterios": ["fiebre alta en menor", "vómitos"], "descripcion": "niña de 5 años, fiebre 39.2 desde anoche, vomitó dos veces, pero toma agua y está despierta" },
+  { "id": 11, "sintetico": true, "esperado": "hoy", "criterios": ["síntomas urinarios"], "descripcion": "mujer de 30 años, ardor al orinar desde hace 2 días, orina frecuente, dolor bajo en el vientre, sin fiebre" },
+  { "id": 12, "sintetico": true, "esperado": "hoy", "criterios": ["herida que puede requerir sutura"], "descripcion": "hombre de 25 años, cortada en la mano con vidrio hace 1 hora, de unos 4 cm, sangra poco pero se ve profunda" },
+  { "id": 13, "sintetico": true, "esperado": "espera", "criterios": ["cuadro leve sin signos de alarma"], "descripcion": "niño de 8 años, tos seca desde ayer, sin fiebre, come y juega normal, ardor en garganta 6/10" },
+  { "id": 14, "sintetico": true, "esperado": "espera", "criterios": ["dolor lumbar mecánico"], "descripcion": "mujer de 35 años, dolor de espalda baja desde hace 2 semanas por trabajo sentada, sin fiebre, sin pérdida de fuerza" },
+  { "id": 15, "sintetico": true, "esperado": "espera", "criterios": ["resfriado común"], "descripcion": "hombre de 20 años, estornudos y nariz tapada desde hace 3 días, sin fiebre, sin dificultad para respirar" }
+]

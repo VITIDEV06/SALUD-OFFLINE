@@ -1,0 +1,1945 @@
+Ministerio de Salud
+Panamá
+
+Guía de Práctica Clínica Informada
+en la Evidencia para el Abordaje
+de la Obesidad en Adultos
+
+Versión resumida 2025
+
+Ministerio de Salud
+Panamá
+
+Guía de Práctica Clínica Informada
+en la Evidencia para el Abordaje
+de la Obesidad en Adultos
+
+Versión resumida 2025
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos.
+República de Panamá, 2025
+
+ISBN 978-9962-621-51-5
+Ministerio de Salud de Panamá
+Organización Panamericana de la Salud / Organización Mundial de la Salud
+Diseño y Diagramación:
+Editora Sibauste, S. A. - esibauste@cwpanama.net
+
+Autoridades
+Ministerio de Salud
+Dr. Fernando Boyd Galindo, Ministro de Salud.
+Dr. Manuel Zambrano Chang, Viceministro de Salud.
+Dra Yelkys Gill, Directora General de Salud Pública.
+Dr. Pedro Contreras Saenz, Subdirector General de Salud a la Población.
+
+Caja de Seguro Social
+Mgtr. Dino Mon, Director General.
+Dr. Marcos Young, Director Ejecutivo Nacional de Servicios y Prestaciones en Salud.
+Dra. Marlin Cedeño, Directora de Servicios de Salud.
+Dr. Hiram Martín, Subdirector de Atención Primaria en Salud.
+
+Organización Panamericana de la Salud/Organización Mundial de la Salud
+Dra. Ana Rivière Cinnamond, Representante de la OPS/OMS en Panamá.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+3
+
+Grupo desarrollador
+Departamento de Salud y Atención Integral
+a la Población
+Dra. Geni Hooker, Jefa del Departamento de Salud
+y Atención Integral a la Población, MINSA.
+
+Grupo metodológico
+
+Dra. Muriel Rodríguez, Médico General, Región
+Metropolitana de Salud, MINSA.
+Dra. Loyda Gutiérrez, Médico Familiar, Coordinadora
+Nacional de Medicina Familiar, CSS.
+Dra. Ángela Tulipano, Médico Familiar, Programa
+Nacional de Salud de Adultos, CSS.
+
+Dra. Jisela Ibarra, Coordinadora del equipo
+metodológico. Técnica de la Sección de Salud de
+Adultos, Médico General, MINSA.
+
+Dra. Jazmin Cedeño, Psiquiatra, Programa Nacional
+de Salud Mental, CSS.
+
+Dra. Erika Zhong, Técnica de la Sección de Salud de
+Adultos. Médico General, MINSA.
+
+Dr. Eliecer Tello, Cirugía Bariátrica, CSS.
+
+Dr. Johnny Cuevas, Coordinador del Programa de
+Enfermedades Raras, Poco Frecuentes y Huérfanas.
+Médico General, MINSA.
+
+Lic. Adela Monteza, Trabajo Social, CSS.
+
+Dr. Edgardo Ureña, Jefe de la Sección de Salud Integral
+de Niñez y Adolescencia. Pediatra.
+Lic. Guadalupe Quiroz, Técnica de la Sección de Salud
+Mental. Psicóloga, MINSA.
+Dra. Kimberly González, Técnica de la Sección de Salud
+Sexual y Reproductiva. Médico General, MINSA.
+Dr. Francisco Lara, Técnico de la Sección de Adulto
+Mayor, Médico General, MINSA.
+Lic. Yitzel Arcia, Técnica de la Sección de ITS/VIH/
+SIDA. Enfermera, MINSA.
+
+Grupo temático
+Lic. Ossys Cedeño, Trabajo Social, Hospital Santo
+Tomás.
+Dra. Delky Meza, Jefa de Docencia e Investigación,
+Medicina Física y Rehabilitación, INMFRE.
+
+Dr. Edwin Rangel, Medicina Física y Rehabilitación, CSS.
+Lic. Nayira Culiolo, Nutricionista, CSS.
+
+Asesores de la Organización Panamericana
+de la Salud/Organización Mundial de la Salud
+Dra. Zohra Abaakouk, asesora internacional
+Enfermedades No Transmisibles y Determinantes
+de Salud, OPS/OMS en Panamá.
+Mgtr. Elka González, consultora nacional de salud
+nutricional, actividad física y diabetes, OPS/OMS
+en Panamá.
+Dra. Lesly Samara Vejar, Asesora en Malnutrición
+y Sistemas Alimentarios de OPS/OMS Washington DC.
+Dr. Ludovic Reveiz, asesor regional, Jefe Unidad de
+Ciencia y Conocimiento para la acción del Departamento
+de evidencia e inteligencia para la acción de salud de la
+OPS, OPS/OMS Washington DC.
+Dra. Marcela Torres, consultora internacional,
+Unidad de Ciencia y Conocimiento para la acción del
+Departamento de evidencia e inteligencia para la
+acción de salud de la OPS, OPS/OMS Washington DC.
+
+Mgtr. Melissa Noriega, Nutricionista, Dirección
+de Promoción de la Salud, MINSA.
+
+4
+
+MINSA / CSS
+
+Panel de expertos
+Nombre
+
+Profesión
+
+Cargo
+
+Afiliación
+
+Dr. Amado Brunette
+
+Especialista en
+Endocrinología.
+
+Médico funcionario
+
+Complejo Hospitalario
+Dr. Manuel Amador Guerrero, CSS
+
+Dr. Edgardo Saavedra
+
+Especialista en
+Médico funcionario
+Cirugía bariátrica
+
+Ciudad de la Salud, CSS
+
+Dra. Magdalena Martínez Especialista
+en Psiquiatría
+
+Médico funcionario
+
+Centro de Salud de Chorrillo,
+Región Metropolitana de Salud.
+
+Dr. Alexis Tejada
+
+Médico general
+
+Médico funcionario
+
+Centro de Salud de San Felipe,
+Región Metropolitana de Salud
+
+Dra. Keyla Ortega
+
+Médico general
+
+Médico funcionario
+
+Centro de Salud de San Felipe,
+Región Metropolitana de Salud
+
+Mgtr. Ana María Florez
+
+Psicóloga Social
+
+Directora de Asuntos
+Internacionales
+
+Asociación Panameña de Psicología
+
+Dra. Ileana Rodíguez
+Mesa
+
+Especialista en
+Medicina Física
+y Rehabilitación
+
+Presidente
+
+Sociedad Panameña de Medicina
+Física y Rehabilitación.
+
+Licdo. Gabriel Galdeano
+
+Trabajador social
+
+Jefe de departamento
+
+Departamento de Trabajo Social,
+MINSA
+
+Mgtr. Celestina Delgado
+
+Nutricionista
+y dietista
+
+Jefa de departamento
+
+Departamento de Salud Nutricional,
+MINSA
+
+Lcda. Yenny Carrasco
+
+Nutricionista
+y dietista
+
+Técnica de departamento
+
+Departamento de Salud Nutricional,
+MINSA
+
+Lcda. Nilka López
+
+Nutricionista
+y dietista
+
+Técnica de departamento
+
+Departamento de Salud Nutricional,
+MINSA
+
+Mgtra. Bélgica Riera
+
+Farmacéutica
+
+Comisionada
+
+Comisión Nacional
+de Medicamentos de Panamá
+
+Dr. Israel Cedeño G.
+
+Médico salubrista Jefe de la Sección de Salud
+de Adultos
+
+Dirección general de Salud Pública,
+MINSA
+
+Licda. Irma Natis
+
+Enfermera
+
+Dirección Nacional de Enfermería,
+MINSA
+
+Coordinadora de Enfermería
+de Salud de Adultos
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+5
+
+Validación con pacientes
+Se invitó a participar en el panel de expertos a un
+paciente de la Clínica de Obesidad de la Ciudad de la
+Salud, quien fue sometido a cirugía bariátrica, adicional
+a las intervenciones no farmacológicas como parte de
+su tratamiento integral.
+
+Tabla 2: Representantes de pacientes
+Paciente
+
+Institución donde recibió
+tratamiento
+
+Vicente Paredes
+
+Clínica de Obesidad de Ciudad
+de la Salud-Caja de Seguro
+Social
+
+Revisores pares
+Metodológico
+Dr. Elías José Bonilla, Especialista en Pediatría,
+Posgr. en Desarrollo, Implementación y Evaluación
+
+6
+
+de Tecnologías Sanitarias, Posgr. En Estadística e
+Investigación Científica. Centro Regional para el
+Adiestramiento y Simulación en Salud (CREASS AIP);
+Instituto de Investigación, Innovación y Gestión del
+Conocimiento, Ciudad de la Salud, CSS.
+
+Clínicos
+Dr. Jorge Rodríguez Sotomayor, Especialista en
+Medicina Familiar, Maestría en Nutrición Deportiva,
+Obesidad y Técnicas culinarias, Posgr. Docencia
+Superior y Entonos Virtuales de Aprendizaje. Dirección
+Nacional de Promoción de la Salud, Ministerio
+de Salud.
+Dr. Manuel Cigarruista, Especialista en Endocrinología,
+Maestría en Docencia Superior, Maestría Experto
+Antiaging. Expresidente Asociación Panameña de
+Endocrinología, Diabetes y Metabolismo (APEDIM),
+Expresidente Asociación Centroamericana y del Caribe
+de Endocrinología, Diabetes y Metabolismo (ASOCEDIM).
+Hospital Regional de Azuero Anita Moreno, Ministerio
+de Salud.
+
+MINSA / CSS
+
+Objetivos y población
+Objetivo General
+Brindar recomendaciones informadas en la evidencia
+para el tratamiento de la población de pacientes
+adultos con obesidad.
+
+Objetivos Específicos
+1.
+
+Proveer recomendaciones para el cuidado de
+la dieta, ayuda psicológica, actividad física, y
+herramientas digitales.
+
+2. Definir las intervenciones farmacológicas
+para los pacientes con obesidad.
+3. Conocer la indicación del abordaje quirúrgico
+para pacientes con obesidad.
+
+Población diana
+
+establecimientos del Ministerio de Salud y Caja de
+Seguro Social como médicos generales y de familia,
+internistas, endocrinólogos, psiquiatras, fisiatras,
+especialistas en cirugía bariátrica, personal de
+enfermería, trabajadores sociales, profesionales en
+psicología, fisioterapia, nutrición, y trabajadores
+comunitarios, servicios de clínicas metabólicas, y
+otros prestadores de servicios que brindan atención
+a la población de pacientes incluida en esta guía. Así
+mismo está destinada para tomadores de decisiones y
+miembros de entidades gubernamentales con el fin de
+facilitar el proceso de implementación.
+En esta guía se incluye lo siguiente:
+1.
+
+Intervenciones no farmacológicas
+Dieta
+Ejercicio
+
+La población diana está constituida por la población
+adulta de hombres y mujeres con obesidad con edad
+igual o mayor a 20 años.
+
+Intervenciones psicológicas
+
+No incluye pacientes embarazadas, pacientes con
+obesidad de causa secundaria como endocrinopatías,
+de causa genéticas ni la inducida por fármacos.
+
+Uso de probióticos
+
+Alcance y usuarios
+Las recomendaciones están dirigidas al personal
+del sector salud responsable de la atención integral
+de los pacientes con obesidad en los diferentes
+
+Combinada (actividad física + dieta)
+Herramientas tecnológicas
+
+2. Intervenciones farmacológicas
+3. Intervenciones quirúrgicas.
+
+Ámbito asistencial y lugar de aplicación
+Todos los establecimientos de la red del Ministerio
+de Salud (MINSA) y Caja de Seguro Social (CSS).
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+7
+
+¿Cómo usar esta guía?
+Cada pregunta presenta en grupo de recomendaciones y puntos de buena práctica para el tratamiento de la obesidad.
+En cada recomendación se presenta la certeza de la evidencia siguiendo el sistema GRADE (Guyatt et al., 2011):
+Tabla 3.
+
+Niveles de calidad de la evidencia de acuerdo con el sistema GRADE
+
+Calidad de la evidencia
+
+Características
+
+Alta
+
+Es muy poco probable que nuevos estudios cambien la confianza que se tiene en el
+resultado estimado.
+
+Moderada
+
+Es probable que nuevos estudios tengan un impacto importante en la confianza que se
+tiene en el resultado estimado y que estos puedan modificar el resultado.
+
+Baja
+
+Es muy probable que nuevos estudios tengan un impacto importante en la confianza que
+se tiene en el resultado estimado y que estos puedan modificar el resultado.
+
+Muy Baja
+
+Cualquier resultado estimado es muy incierto.
+
+Además, se incluye la fuerza de la recomendación de acuerdo con el sistema GRADE (Guyatt et al., 2011):
+
+Tabla 4.
+
+Fuerza de la Recomendación de acuerdo con el sistema GRADE
+
+Fuerza de la Recomendación
+
+Significado
+
+Fuerte a favor
+
+Las consecuencias deseables claramente sobrepasan las consecuencias indeseables.
+SE RECOMIENDA HACERLO
+
+Condicional a favor
+
+Las consecuencias deseables probablemente sobrepasan las consecuencias
+indeseables. Es probable que nuevos estudios cambien la recomendación.
+SE SUGIERE HACERLO
+
+Condicional en contra
+
+Las consecuencias indeseables probablemente sobrepasan las consecuencias
+deseables. Es probable que nuevos estudios cambien la recomendación de no realizar
+la recomendación. SE SUGIERE NO HACERLO
+
+Fuerte en contra
+
+Las consecuencias indeseables claramente sobrepasan las consecuencias deseables.
+SE RECOMIENDA NO HACERLO
+
+Punto de buena práctica
+
+8
+
+
+
+Práctica recomendada basada en la experiencia clínica y el consenso del equipo
+redactor (“Niveles de evidencia y grados de recomendación del SIGN”, 2019)
+
+MINSA / CSS
+
+Resumen de las recomendaciones
+Rc: recomendación clave para el proceso de implementación que podría generar el mayor impacto
+en la variación de la práctica clínica o en el uso eficiente de los recursos en salud.
+
+Rc
+
+Tratamiento no farmacológico
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+1
+
+Se recomienda la terapia nutricional personalizada equilibrada para el tratamiento
+de pacientes con obesidad.
+Certeza de la evidencia: baja
+y muy baja
+
+PBP
+
+ La prescripción de la terapia nutricional debe ser flexible e individualizada,
+
+considerando factores como la genética, el metabolismo, la profesión, las
+posibilidades económicas, la actividad física, el contexto cultural, las costumbres
+alimentarias y el estado psicoemocional del paciente.
+
+Fuerte a favor
+
+Rc
+PBP
+
+2
+
+Se recomienda el tratamiento combinado con plan alimentario, ejercicio físico,
+educación al paciente e intervenciones psicológicas (grupales o individuales)
+para el tratamiento y seguimiento de pacientes adultos con obesidad.
+Certeza de la evidencia: baja
+y muy baja
+
+ La elección del tratamiento combinado debe basarse en una evaluación integral
+
+que considere:
+• Las preferencias individuales del paciente, su edad, contexto social
+y económico, así como sus experiencias previas con intentos de manejo
+de la obesidad.
+• El grado de obesidad, el riesgo para la salud asociado a la circunferencia
+de la cintura y el riesgo cardiovascular.
+• La presencia de comorbilidades y su condición física general.
+
+PBP
+
+ Los objetivos terapéuticos deben establecerse de manera individualizada
+en colaboración con el paciente y ser evaluados periódicamente para ajustar
+el enfoque según su progreso y necesidades.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+9
+
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+3
+
+Rc
+
+Se recomienda el ejercicio combinado: aeróbico (3 a 5 veces por semana,
+30 a 60 min por sesión) y de fuerza (2 a 3 veces por semana al > 50% a un 1RM)
+para el tratamiento de pacientes adultos con obesidad cuya prescripción debe ser
+realizado por un profesional capacitado con evaluación previa de su condición.
+Certeza de la evidencia: muy baja
+
+PBP
+
+ La implementación del ejercicio físico en pacientes con obesidad debe ser
+
+personalizada, teniendo en cuenta sus comorbilidades, y realizarse de manera
+progresiva.
+
+PBP
+
+ Todos los pacientes con obesidad deben recibir tratamiento por parte de un
+
+equipo multidisciplinario con competencias en el manejo de la patología. De
+acuerdo con la disponibilidad, los pacientes pueden ser atendidos en clínicas de
+obesidad de la red asistencial del Ministerio de Salud y la Caja de Seguro Social.
+
+Herramientas tecnológicas
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+4
+
+Rc
+
+Se recomienda el uso de aplicaciones móviles, herramientas basadas en la
+web, mensajes de texto y dispositivos dirigidos a la salud, de acuerdo con la
+disponibilidad y preferencias del paciente, para mejorar la adherencia a los
+cambios en los estilos de vida de personas con obesidad.
+Certeza de la evidencia: muy baja
+
+PBP
+
+ El profesional de salud debe enfatizar al paciente, que estas herramientas
+tecnológicas no sustituyen la atención profesional y que es una medida adyuvante
+a otras intervenciones como el ejercicio y la dieta.
+
+PBP
+
+ La telemedicina puede ser utilizada como una herramienta complementaria para
+
+la atención integral de las personas con obesidad, permitiendo un acceso oportuno
+y continuo a servicios de salud, facilitando la monitorización del progreso y el
+seguimiento personalizado de los pacientes, especialmente en áreas con barreras
+geográficas o limitaciones de acceso a recursos especializados.
+
+10
+
+MINSA / CSS
+
+Tratamiento farmacológico
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+5
+
+Rc
+
+Se recomienda en pacientes adultos con obesidad que están en tratamiento
+combinado con plan alimentario, actividad física, educación e intervenciones
+psicológicas adicionar el tratamiento farmacológico adyuvante de forma
+individualizada.
+Certeza de la evidencia: baja
+y muy baja
+
+PBP
+
+ El tratamiento farmacológico para pacientes con obesidad debe ser personalizado,
+
+basado en una evaluación integral realizada por un equipo multidisciplinario. La
+elección del medicamento y la duración de su uso deben ser determinados por el
+médico mediante una prescripción razonada y fundamentada.
+
+PBP
+
+ Para el tratamiento de los pacientes adultos con obesidad los profesionales de
+
+salud deben evaluar las comorbilidades, así como los beneficios y potenciales
+limitaciones del uso de estos medicamentos. Esto incluye considerar
+el mecanismo de acción, interacciones medicamentosas, los efectos
+secundarios, requisitos de seguimiento y el impacto posible en la motivación
+del paciente para bajar de peso.
+Toda RAM (reacción adversa a medicamento) deberá ser notificada al Centro
+Nacional de Farmacovigilancia.
+
+PBP
+
+ La telemedicina puede ser utilizada como una herramienta complementaria para
+
+la atención integral de las personas con obesidad, permitiendo un acceso oportuno
+y continuo a servicios de salud, facilitando la monitorización del progreso y el
+seguimiento personalizado de los pacientes, especialmente en áreas con barreras
+geográficas o limitaciones de acceso a recursos especializados.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+11
+
+Tratamiento quirúrgico: Cirugía bariátrica
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+6
+
+Se recomienda la cirugía bariátrica para los pacientes adultos con obesidad, previa
+evaluación por un equipo multidisciplinario a través de un proceso estructurado.
+
+Rc
+Fuerte a favor
+
+Certeza de la evidencia: moderada
+7
+
+y baja
+
+La cirugía bariátrica en pacientes adultos con obesidad se debe realizar si se
+cumplen los siguientes criterios:
+
+• Medición de IMC igual o mayor a 35 kg/m2.
+• Medición de IMC entre 30 kg/m2 a 34.9 kg/m2 con enfermedades metabólicas.
+Consenso de expertos
+PBP
+
+ El equipo multidisciplinario de salud debe valorar previamente en los pacientes
+
+con obesidad, los tratamientos no farmacológicos y farmacológicos con el
+objetivo de que mejore la condición de salud previo al acto quirúrgico. Además,
+es recomendable, más no excluyente, la pérdida del exceso de peso y los cambios
+de conducta en su estilo de vida previo a la cirugía.
+
+PBP
+
+ Los pacientes candidatos a cirugía bariátrica deben completar un proceso de
+
+evaluación integral y obtener el aval de los especialistas que se consideren
+necesarios. Esto incluye, evaluaciones por los servicios de cirugía, nutrición,
+medicina interna y salud mental y otros según necesidad.
+
+PBP
+
+ El seguimiento postoperatorio de los pacientes debe ser individualizado e
+
+incluir: control dietético, evaluación y manejo de deficiencias nutricionales,
+acompañamiento en las intervenciones sociales y psicológicas, apoyo en
+la implementación de ejercicio físico y ajuste de medicamentos según las
+necesidades específicas de cada paciente.
+
+12
+
+MINSA / CSS
+
+Intervenciones preoperatorias y posoperatorias
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+8
+
+Se recomienda en los pacientes con obesidad la terapia de apoyo en salud
+mental preoperatoria y posoperatoria como la psicoeducación y estrategias de
+comportamiento dirigidas a cambiar hábitos conductuales de alimentación y
+actividad física.
+Certeza de la evidencia: baja
+y muy baja
+
+PBP
+
+ Es fundamental educar al paciente para fomentar su empoderamiento en el
+
+cuidado de su bienestar y recuperación. Además, se debe involucrar a los
+miembros de la familia que conviven con él como parte integral de su red de
+apoyo durante todo el proceso de atención.
+
+Uso de anticoagulante profiláctico
+Fuerza de la recomendación
+
+Nº
+
+Recomendación
+
+Fuerte a favor
+
+9
+
+Se recomienda en pacientes con obesidad que serán sometidos a cirugía bariátrica
+el uso de profilaxis mecánica combinada con trombo profilaxis farmacológica
+desde 12 horas previas para prevenir el tromboembolismo venoso.
+Certeza de la evidencia: baja
+
+PBP
+
+ En pacientes en quienes se utiliza trombo profilaxis farmacológica se debe
+considerar comorbilidades, contraindicaciones del fármaco e interacciones
+medicamentosas así mismo las evaluaciones preoperatorias realizadas por las
+especialidades médicas relacionadas a la atención del paciente.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+13
+
+ANEXOS
+
+Glosario
+Equipo Multidisciplinario: es un grupo de personal
+sanitario y asistencial, miembros de diferentes
+profesiones y organizaciones (por ejemplo, médicos
+de cabecera, trabajadores sociales, enfermeras), que
+trabajan juntos para tomar decisiones relativas al
+tratamiento de pacientes (Janković, 2024)
+Índice de Masa Corporal (IMC): Es una medida que se
+utiliza para evaluar la relación entre el peso y la altura
+de un individuo, calculándose mediante la fórmula:
+IMC=peso en kg / (altura en m)2 (Hernández Rodríguez
+et al., 2020).
+Obesidad: Es una enfermedad compleja y multifactorial
+no transmisible, caracterizada por una acumulación
+excesiva de grasa corporal que puede tener efectos
+adversos sobre la salud. Se cuantifica objetivamente
+utilizando el Índice de Masa Corporal (IMC), donde un
+IMC igual o superior a 30 kg/m² (WHO, s/f)
+
+Obesidad Mórbida: Se define como una condición de
+salud caracterizada por un Índice de Masa Corporal
+(IMC) igual o superior a 40 kg/m² (Keaver et al., 2020).
+También se considera obesidad mórbida cuando el IMC
+es igual o superior a 35 kg/m² en presencia de al menos
+una comorbilidad significativa, como diabetes tipo 2,
+hipertensión arterial o apnea del sueño.
+Prescripción Razonada: Método que guía la
+prescripción médica para asegurar que los pacientes
+reciban medicamentos adecuados a sus necesidades
+clínicas, con dosis personalizadas, por el tiempo
+necesario y al menor costo posible para el paciente, la
+comunidad y la institución.
+1 Repetición máxima (1-RM): Se define como el peso
+máximo que una persona puede levantar una vez con
+la técnica de levantamiento correcta (Seo et al., 2012).
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+15
+
+Módulo de implementación
+Con el fin de brindar orientación a los prestadores de
+servicios de salud para la implementación de la guía,
+se ha desarrollado un módulo de implementación que
+presenta los actores claves responsables de llevar
+las recomendaciones a la práctica en los diferentes
+niveles de complejidad y en los diferentes niveles
+organizacionales, así como las barreras, facilitadores e
+indicadores de la implementación de la guía.
+Este módulo ha sido construido con base en la revisión
+de la literatura en Medline, LILACs, Cochrane, literatura
+gris y aportes del panel de expertos con énfasis en
+el contexto panameño. Se consideró adicionalmente
+la normatividad nacional. Posteriormente, expertos
+del grupo desarrollador ajustaron la información
+presentada con el fin de brindar información
+contextualizada al país y sea de fácil utilización por
+los usuarios de la guía. Las barreras y facilitadores se
+adaptaron de acuerdo con la organización sugerida por
+la Organización Panamericana de la Salud y el Grupo
+EPOC de Cochrane.
+
+Actores responsables de la implementación
+de las recomendaciones de la guía
+El primer paso de la implementación es identificar y
+crear una lista de los actores responsables del proceso.
+1.
+
+Tomadores de decisiones de Instituciones o
+establecimientos del MINSA y CSS.
+
+2. Organizaciones gubernamentales nacionales.
+a. Alcaldías y juntas comunales.
+b. Instituto Panameño de Deportes.
+
+16
+
+3. Organizaciones no gubernamentales nacionales e
+internacionales.
+a. Federación de Enfermedades Crónicas,
+Críticas y Degenerativas de Panamá.
+b. Fundación Panamá Saludable.
+c. Fundación Corazones que Laten.
+4. Organizaciones comunitarias y sociales.
+a. Grupos organizados de adultos y pacientes
+con enfermedades crónicas
+5. Sociedades médicas y asociaciones relacionadas
+con la atención de pacientes con obesidad.
+a. Asociación Panameña de Endocrinología,
+Diabetes y Metabolismo.
+b. Asociación Panameña de Medicina Familiar.
+c. Asociación Panameña para la prevención y el
+tratamiento de la obesidad.
+d. Sociedad Panameña de medicina general.
+e. Sociedad Panameña de Medicina Física y
+Rehabilitación.
+f. Asociación Panameña de psicólogos.
+g. Asociación Panameña de nutricionistas
+dietistas.
+6. Instituciones académicas formadoras de recurso
+humano en salud.
+a.
+b.
+c.
+d.
+e.
+f.
+g.
+
+Universidad de Panamá
+Universidad Autónoma de Chiriquí
+Universidad Especializada de las Américas.
+Universidad Latina de Panamá.
+Universidad Americana.
+Columbus University.
+Universidad Interamericana.
+
+MINSA / CSS
+
+Recomendaciones claves para la implementación de la guía
+A continuación, se presentan las recomendaciones claves de implementación de la guía seleccionados por el GDG,
+basados en los criterios desarrollador.
+Dimensión de Priorización / Recomendación (R)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Alto impacto en desenlaces relevantes al paciente:
+Se responde 1 si la recomendación mejora
+sustancialmente los desenlaces en salud
+de los pacientes
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Alto impacto en la disminución de la variabilidad:
+Se responde 1 si la recomendación contribuye
+a estandarizar el manejo de la condición.
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Se asocia a mayor eficiencia en el uso de los
+recursos:
+Se responde 1 si la recomendación contribuye
+a un mejor manejo de recursos
+
+0
+
+1
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Promueve la equidad y elección de los pacientes:
+Se responde 1 si la recomendación reduce la inequidad
+en la atención de los pacientes
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+0
+
+1
+
+0
+
+La intervención no hace parte de la atención estándar
+Se responde 1 si la recomendación no corresponde
+a la práctica clínica actual
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+0
+
+Implica cambios en la oferta de servicios
+Se responde 1 si la implementación de la
+recomendación implica cambios en la oferta de
+servicios
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+0
+
+1
+
+Implica procesos de reentrenamiento del personal
+de salud o el desarrollo de nuevas destrezas y
+competencias
+Se responde 1 si la implementación de la
+recomendación implica capacitación de los usuarios
+de la guía
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+1
+
+Implica un cambio en la práctica institucional
+Se responde 1 si la implementación de la
+recomendación puede llevar a cambios importantes
+en la atención de los pacientes.
+
+0
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+0
+
+1
+
+TOTAL
+
+4
+
+8
+
+7
+
+7
+
+8
+
+8
+
+4
+
+5
+
+6
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+17
+
+El resultado final de este ejercicio de priorización muestra que estas son las recomendaciones claves para el
+proceso de implementación:
+
+Recomendación # 2
+
+Se recomienda el tratamiento combinado con plan alimentario, ejercicio físico,
+educación al paciente e intervenciones psicológicas (grupales o individuales)
+para el tratamiento y seguimiento de pacientes adultos con obesidad.
+Certeza de la evidencia: baja
+
+Recomendación # 3
+
+y muy baja
+
+Se recomienda el ejercicio combinado: aeróbico (3 a 5 veces por semana, 30 a
+60 min por sesión) y de fuerza (2 a 3 veces por semana al > 50% a un 1RM) para
+el tratamiento de pacientes adultos con obesidad cuya prescripción debe ser
+realizado por un profesional capacitado con evaluación previa de su condición.
+Certeza de la evidencia: muy baja
+
+Recomendación # 4
+
+Se recomienda el uso de aplicaciones móviles, herramientas basadas en la
+web, mensajes de texto y dispositivos dirigidos a la salud, de acuerdo con la
+disponibilidad y preferencias del paciente, para mejorar la adherencia a los
+cambios en los estilos de vida de personas con obesidad.
+Certeza de la evidencia: muy baja
+
+Recomendación # 5
+
+Se recomienda en pacientes adultos con obesidad que están en tratamiento
+combinado con plan alimentario, actividad física, educación e intervenciones
+psicológicas adicionar el tratamiento farmacológico adyuvante de forma
+individualizada.
+Certeza de la evidencia: baja
+
+Recomendación # 6
+
+Se recomienda la cirugía bariátrica para los pacientes adultos con obesidad,
+previa evaluación por un equipo multidisciplinario a través de un proceso
+estructurado.
+Certeza de la evidencia: moderada
+
+18
+
+y muy baja
+
+y baja
+
+MINSA / CSS
+
+Barreras y estrategias de implementación de la guía
+Nivel de las barreras
+
+Barreras
+
+Estrategias
+
+Responsables
+
+Barreras personales
+relacionados con
+conocimientos
+y actitudes
+de los clínicos.
+
+-- Actitud pasiva de los
+formadores de recursos
+sobre el impacto de la
+obesidad en las personas.
+
+-- Incorporar el tema de
+obesidad como una
+enfermedad prioritaria en
+la formación de recursos
+humanos.
+
+-- Tomadores de
+decisiones del MINSA.
+
+-- Desconocimiento de la
+existencia de la GPC y del
+beneficio de implementar
+las recomendaciones.
+-- Escaso conocimiento
+en el abordaje del paciente
+con obesidad.
+-- Actitud desinteresada a
+la adopción de nuevos
+conocimientos.
+-- Poca importancia en la
+prevención de la obesidad.
+
+-- Difusión de la existencia de
+la GPC entre los prestadores
+de servicios de salud.
+-- Capacitación al personal
+de salud usuario de la
+GPC a través de diversas
+modalidades (talleres,
+discusión de casos,
+reuniones administrativas,
+elearning).
+
+-- Asociaciones de
+profesionales de
+medicina interna,
+endocrinología, cirugía,
+medicina física y
+rehabilitación, medicina
+familiar nutrición
+y enfermería.
+-- Colegio Médico
+de Panamá.
+-- Instituciones
+académicas formadoras
+de recursos.
+
+-- Disponibilidad la guía en las -- Otras ONGs nacionales
+páginas web institucionales
+e internacionales.
+de las diferentes plataformas
+virtuales que conforman
+el MINSA, CSS, ONGs e
+instituciones académicas.
+-- Recordatorios de las
+recomendaciones en
+las historias clínicas
+electrónicas.
+-- Monitoreo y divulgación de
+resultados de los indicadores
+de implementación de la guía
+entre los profesionales.
+-- Motivar a los profesionales
+de la salud a participar
+en la aplicación de las
+recomendaciones e
+incentivar la buena práctica
+a través de oportunidades de
+fortalecimiento profesional.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+19
+
+Nivel de las barreras
+
+Barreras
+
+Barreras relacionadas
+con preferencias
+y experiencias
+de pacientes.
+
+-- La obesidad no es percibida -- Fortalecer la educación en
+como una enfermedad
+el ciclo de vida sobre estilo
+de riesgo.
+de vida saludable.
+-- Falta de conocimientos en
+la persona y familia para
+llevar una alimentación
+balanceada durante todo el
+ciclo de vida.
+-- Falta de medios
+económicos para obtener
+una alimentación adecuada.
+-- Poca educación alimentaria
+nutricional.
+-- Ambiente obesogénico
+-- Ansiedad por la comida,
+sentimientos de culpa por
+no tener control sobre
+la alimentación.
+-- Gestión inadecuada
+de las emociones.
+-- Dificultad para pedir apoyo
+en el abordaje integral
+de su condición de salud.
+-- Incomodidad y temor
+de no tener aceptación de
+las personas de su entorno
+familiar, trabajo
+y comunidad, debido
+a la obesidad.
+
+Estrategias
+
+Responsables
+-- Tomadores de
+decisiones de
+instituciones que
+atienden adultos
+con obesidad
+del MINSA.
+
+-- Articular acciones con el
+Instituto Panameño de
+Deportes (PANDEPORTES)
+-- Jefaturas y
+encaminadas a mejorar el
+profesionales de salud
+estilo de vida de la población
+de los servicios de
+con obesidad.
+atención directa.
+-- Fortalecer la educación
+alimentaria nutricional
+en el paciente, familia
+y red de apoyo.
+
+-- Fomentar estrategias de
+salud mental a los pacientes
+con obesidad.
+-- Fortalecer la comunicación
+efectiva entre el personal
+de salud, paciente y familia.
+
+-- Alcaldías y gobiernos
+locales.
+-- Instituto Panameño
+de Deportes
+(PANDEPORTES)
+-- Organizaciones
+comunitarias y sociales.
+-- Asociaciones
+de pacientes.
+
+-- Fortalecer la comunicación
+efectiva entre el personal
+de salud, paciente y familia.
+-- Motivar y brindar estrategias
+que contribuyan a la mejora
+de la salud.
+-- Formar red de apoyo que
+incentive a los cambios
+en el estilo de vida.
+
+-- Estilo de vida sedentario.
+-- Desconocimiento de las
+complicaciones en la salud
+si no se trata la obesidad.
+-- Falsa percepción de los
+pacientes sobre costo
+del tratamiento para la
+obesidad.
+
+20
+
+MINSA / CSS
+
+Nivel de las barreras
+
+Barreras
+
+Estrategias
+
+Responsables
+
+Barreras relacionadas
+con determinantes
+sociales.
+
+-- Barreras geográficas que
+dificultan el acceso a las
+instituciones de salud
+que brindan atención
+especializada.
+
+-- Realizar coordinaciones
+para el acceso a la atención
+especializada de los
+pacientes con obesidad.
+
+-- Tomadores de
+decisiones del MINSA
+
+-- Limitados recursos
+económicos de los
+pacientes y familia para
+obtener una alimentación
+adecuada.
+-- Práctica alimentaria de
+acuerdo con patrones
+culturales que influyen
+en la cantidad, variedad,
+calidad y tipo de alimentos
+disponibles y accesibles.
+-- Escasa educación
+alimentaria nutricional.
+
+-- Alcaldes y consejo
+municipal.
+
+-- Facilitar por medio de tele
+-- Ministerio de Desarrollo
+consulta la accesibilidad a la
+Agropecuario
+atención especializada.
+-- Otros Ministerios
+-- Fortalecer al paciente, la
+-- Comités comunitarios.
+familia y a la red de apoyo
+con la educación alimentaria -- Organizaciones
+comunitarias y sociales.
+nutricional a través de
+medios digitales.
+-- ONG con proyectos
+-- Facilitar a las comunidades
+para la creación de huertos
+caseros familiares.
+-- Asesoría por parte del
+personal de salud para
+explicar la importancia de
+la asistencia a todos los
+controles y cumplimiento de
+tratamiento.
+
+que contribuyen a
+mejorar las condiciones
+nutricionales en la
+comunidad.
+
+-- Realizar talleres
+comunitarios para
+enseñarles a las familias a
+aprovechar las propiedades
+de los alimentos de
+temporada que tienen
+accesible.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+21
+
+Nivel de las barreras
+
+Barreras
+
+Estrategias
+
+Responsables
+
+Barreras del sistema
+de salud
+
+-- Limitada disponibilidad
+de clínicas metabólicas
+y de recurso humano
+especializado para la
+atención en el sistema
+público de salud.
+
+-- Fortalecimiento de la
+capacidad instalada de los
+establecimientos de salud
+en infraestructura y recurso
+humano especializado para
+la creación de clínicas
+metabólicas en el MINSA
+Y CSS.
+
+-- Tomadores de
+decisiones del MINSA.
+
+-- Reforzar los programas en
+la atención integral en el
+ciclo de vida la prevención
+de la obesidad
+-- El costo de intervenciones
+farmacológicas y
+quirúrgicas específicas
+para el tratamiento de la
+obesidad.
+
+-- Cooperantes
+gubernamentales y
+no gubernamentales
+nacionales e
+internacionales.
+
+-- Fortalecer al recurso
+humano en salud que
+desarrollan los programas de
+atención de pacientes con
+obesidad en el MINSA Y CSS.
+-- Evaluación de tecnologías
+sanitarias para inclusión
+fármacos y dispositivos
+médicos para el manejo de la
+obesidad.
+
+-- Desconocimiento por
+parte de los tomadores
+de decisiones del
+-- Establecer Alianzas
+impacto en la reducción
+estratégicas con
+de la morbimortalidad,
+organizaciones
+disminución de costos,
+gubernamentales y no
+mejor calidad de vida de los
+gubernamentales para
+pacientes al implementar
+el fortalecimiento de
+recomendaciones
+la capacidad instalada
+informadas en la evidencia.
+necesaria para el manejo
+integral de los pacientes
+(recurso humano del equipo
+multidisciplinario materiales
+y medicamentos).
+-- Dar a conocer a los
+tomadores de decisiones
+en salud la mejor evidencia
+disponible que sustentan
+las intervenciones
+que se plantean en las
+recomendaciones.
+
+Fuente: Guía para adaptar y aplicar directrices informadas por la evidencia en su segunda edición de la OPS año 2023. Disponible en https://iris.paho.
+org/bitstream/handle/10665.2/57802/9789275327531_spa.pdf?sequence=1&isAllowed=y (Organización Panamericana de la Salud, 2023)
+
+22
+
+MINSA / CSS
+
+Indicadores
+A continuación, se presentan los indicadores de proceso y resultado de la implementación de la guía
+de práctica clínica.
+Número
+1
+
+2
+
+3
+
+Tipo de
+indicador
+Proceso
+
+Proceso
+
+Proceso
+
+Definición
+Indicador
+
+Operativización
+
+Fuente
+
+Frecuencia
+
+Responsable
+
+Total, de
+pacientes
+mayores de
+20 años que
+consulta en
+establecimiento
+de salud x 100
+
+Registro de
+consulta con
+diagnóstico de
+obesidad
+
+SIES
+
+Anual
+
+Establecimientos
+de salud
+
+Número de
+pacientes
+mayores de 20
+años atendidas
+por nutrición en
+establecimiento
+de salud
+
+Total, de
+pacientes
+mayores
+de 20 años
+diagnosticados
+con obesidad
+en el
+establecimiento
+de salud x 100
+
+Registro de
+atenciones por
+nutrición en el
+SIES, SEIS Y SIS
+
+SIES
+
+Anual
+
+Establecimientos
+de salud
+
+Número de
+pacientes
+mayores de
+20 años con
+obesidad que
+recibieron
+tratamiento
+combinado con
+fármaco en
+establecimiento
+de salud
+
+Total, de
+pacientes
+mayores
+de 20 años
+diagnosticados
+con obesidad
+en el
+establecimiento
+de salud x 100
+
+SEIS
+
+Registro
+de
+consumo
+de
+farmacia*
+
+Anual
+
+Establecimientos
+de salud
+
+Numerador
+
+Denominador
+
+Porcentaje
+de obesidad
+en pacientes
+mayores de
+20 años que
+consulta en
+establecimiento
+de salud
+
+Total, de
+pacientes con
+diagnóstico de
+primera vez con
+obesidad según
+IMC en mayores
+de 20 años que
+consultan en los
+establecimientos
+de salud.
+
+Porcentaje
+de pacientes
+mayores de
+20 años con
+obesidad
+atendidas por
+nutrición en
+establecimientos
+de salud
+Porcentaje
+de pacientes
+mayores de
+20 años con
+obesidad en
+tratamiento
+combinado con
+fármacos
+
+SIS
+Registro de
+consumo de
+farmacia*
+
+SEIS
+SIS
+
+SIES
+SIS
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+23
+
+Número
+4
+
+5
+
+Tipo de
+indicador
+Resultado
+
+Resultado
+
+Definición
+Indicador
+
+Operativización
+
+Fuente
+
+Frecuencia
+
+Responsable
+
+Total, de
+pacientes
+mayores
+de 20 años
+diagnosticados
+con obesidad
+en el
+establecimiento
+de salud que
+recibieron
+tratamiento
+combinado con
+fármaco x 100
+
+SEIS
+
+SIES
+
+Anual
+
+SIS
+
+SEIS
+
+Establecimientos
+de salud
+
+Total, de
+Número de
+pacientes a los
+pacientes
+que se les realizó
+que lograron
+cirugía bariátrica
+el porcentaje
+x 100
+objetivo de
+reducción de
+peso posterior a
+cirugía bariátrica
+
+SIS
+
+Informes
+de clínicas
+metabólicas
+
+Anual
+
+Establecimientos
+de salud
+
+Numerador
+
+Denominador
+
+Porcentaje
+de pacientes
+mayores de
+20 años con
+obesidad con
+reducción
+de peso con
+tratamiento
+combinado con
+fármaco
+
+Número de
+pacientes
+mayores de
+20 años con
+obesidad que
+recibieron
+tratamiento
+combinado con
+fármaco en
+establecimiento
+de salud y
+presentan
+reducción de
+peso
+
+Porcentaje
+de pacientes
+mayores de
+20 años con
+obesidad
+que lograron
+reducción de
+peso posterior
+a la cirugía
+bariátrica
+
+Nota: Las metas de cumplimiento de todos los indicadores deberán ser definidas una vez se tome la decisión de implementación.
+
+24
+
+MINSA / CSS
+
+Algoritmo
+Referencia
+a especialidades
+médicas según necesidad:
+Medicina Familiar,
+Medicina Interna, Endocrinología,
+Ortopedia, Medicina Física
+y Rehabilitación,
+Psiquiatría, Nefrología,
+otros.
+
+Persona con Obesidad (IMC ≥ 30)
+
+Evaluación integral:
+historia clínica, examen físico, laboratorios,
+estudios de gabinete y referencias*.
+
+Presencia de
+comorbilidades
+
+SI
+
+NO
+Iniciar tratamiento
+para el control de la obesidad
+
+Tratamiento no farmacológico
+
+Responde
+al tratamiento
+en 6 meses
+(pérdida de 5-10%
+del peso
+inicial)
+
+SI
+
+Continuar
+con el
+tratamiento
+seguimiento
+
+NO
+Terapia
+nutricional
+personalizada,
+equilibrada
+y flexible
+
+Educación
+e intervención
+es psicológicas
+individuales
+o grupales
+
+Ejercicio físico
+combinado:
+Aeróbico
+(3 a 5 veces
+por semana,
+30 a 60 min
+por sesión)
+y de Fuerza
+(2 a 3 veces
+por semana,
+≥ 50% a un 1RM)
+
+Herramientas
+tecnológicas:
+seguimiento por
+teleconsulta,
+uso de
+aplicaciones
+móviles.
+
+Iniciar tratamiento
+farmacológico combinado
+con no farmacológico
+
+Prescripción razonada e individualizada
+(IMC ≥30 o 27-30 kg/m²
+con al menos una comorbilidad)
+por médico tratante
+
+Responde
+al tratamiento
+en 3 meses
+
+SI
+
+NO
+Tiene indicación de Cirugía Bariátria:
+IMC ≥ 35 o IMC 30-34.9
+con enfermedades metabólicas.
+*Trabajo social, salud mental: según riesgo
+detectado y disponibilidad de profesionales.
+
+NO
+
+SI
+Referencia a equipo
+multidisciplinario de clínicas
+de obesidad: Medicina Interna,
+nutrición, Salud Mental
+(psiquiatría, psicología, trabajo
+social), Cirugía bariátrica.
+
+Guía de Práctica Clínica Informada en la Evidencia para el Abordaje de la Obesidad en Adultos
+
+25
+
+

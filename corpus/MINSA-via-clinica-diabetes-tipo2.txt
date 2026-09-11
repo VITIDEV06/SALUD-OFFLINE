@@ -1,0 +1,25 @@
+VÍA CLÍNICA DE DIABETES TIPO 2. Ministerio de Salud de Panamá. Tamizaje, diagnóstico, tratamiento, seguimiento y criterios de referencia para adultos con diabetes mellitus tipo 2 en el primer nivel de atención.
+
+Tamizaje: adultos asintomáticos de 30 años o más, anualmente. Adultos con sobrepeso u obesidad y uno o más factores de riesgo: hipertensión arterial, dislipidemia, síndrome de ovario poliquístico, historia familiar de diabetes, enfermedad cardiovascular, sedentarismo, resistencia a la insulina, diabetes gestacional previa, hígado graso.
+
+Diagnóstico: glicemia plasmática en ayunas mayor de 126 mg/dl o hemoglobina glicosilada HbA1c mayor de 6.5%, con dos resultados de cualquiera de los parámetros en personas asintomáticas. Glicemia al azar mayor de 200 mg/dl en pacientes sintomáticos. Síntomas clásicos: poliuria, polifagia, polidipsia y pérdida de peso.
+
+Metas terapéuticas: HbA1c menor de 7%. Glucosa en ayuno entre 80 y 130 mg/dl. Glucosa postprandial menor de 180 mg/dl. HbA1c menor de 8% en pacientes con hipoglicemias frecuentes o severas, complicaciones graves, paciente frágil o riesgo social. Presión arterial menor de 130/80 mmHg.
+
+Tratamiento no farmacológico: no fumar y no vapear, evitar el consumo de alcohol, mantener un peso saludable, mantener alimentación saludable, disminuir el consumo de sal y azúcar, realizar actividad física regular, cuidado de los pies, cuidado de la salud bucal, promoción de salud mental.
+
+Tratamiento farmacológico en paciente sin enfermedad cardiovascular o renal: mes 1, Metformina 850 mg una vez al día. Mes 3, Metformina 850 mg dos veces al día. Si no alcanza meta, agregar Gliclazida 80 mg una vez al día; luego Gliclazida 80 mg dos veces al día. Si no cumple meta, escalar el tratamiento progresivamente e iniciar insulina según el protocolo de insulinización de la guía; al iniciar insulina, suspender sulfonilureas y mantener metformina. Paciente catabólico: iniciar insulina.
+
+Tratamiento farmacológico en paciente con enfermedad cardiovascular o renal: mes 3, Metformina 850 mg dos veces al día más un inhibidor SGLT2. Si no alcanza meta, agregar Gliclazida 80 mg una vez al día, luego dos veces al día. Si HbA1c es mayor o igual a 8% al diagnóstico, iniciar terapia combinada. Ajustar dosis según función renal.
+
+Si el paciente es hipertenso, tratar según la vía clínica de hipertensión.
+
+Manejo del riesgo cardiovascular: paciente de 40 años o más sin enfermedad cardiovascular, Rosuvastatina 10 mg. Paciente con enfermedad cardiovascular, independiente de la edad, Rosuvastatina 20 mg más Aspirina 80 a 100 mg, o Clopidogrel 75 mg en caso de alergia a la aspirina.
+
+Control y seguimiento en paciente con meta alcanzada: mínimo cada 6 meses en todos los pacientes, y mínimo cada 3 meses en pacientes con enfermedad cardiovascular o renal. Prescripción de medicamentos para 3 meses. Vacunas: influenza, neumococo, COVID-19.
+
+Tamizaje de complicaciones crónicas: medición de la presión arterial en cada consulta programada. Examen de los pies buscando deformidades, heridas, callosidades y micosis; evaluación de pulsos pedio y tibial posterior; evaluación de sensibilidad con monofilamento. Hemoglobina glicosilada cada 3 meses, y cada 6 meses en pacientes controlados. Perfil lipídico y evaluación de la función renal (tasa de filtración glomerular y relación albúmina/creatinina) al diagnóstico y cada año. Fondo de ojo o referencia a oftalmología al diagnóstico y cada año.
+
+Criterios de referencia a urgencias: hipoglicemias severas y a repetición; cetoacidosis diabética o coma.
+
+Criterios de referencia a consulta externa de segundo o tercer nivel: pacientes difíciles de alcanzar la meta terapéutica; esquemas complejos de insulina que no alcanzan la meta; complicaciones que ameritan seguimiento especializado como pie diabético, nefropatía, retinopatía, neuropatía o cardiopatías. Tras la evaluación y definición del plan de tratamiento, contrarreferir al primer nivel de atención. Los pacientes de mayor complejidad, atendidos en urgencias o pluripatológicos, serán seguidos por una especialidad básica (Medicina Interna o Medicina Familiar). Evitar la duplicidad de la atención.

@@ -1,0 +1,16 @@
+{
+  "name": "centinela",
+  "version": "1.0.0",
+  "description": "Triaje asistido y consulta de guías MINSA, 100% local, sobre QVAC MedPsy y VisionPsy",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "ingestar": "node ingestar.js",
+    "eval": "node eval/correr.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@qvac/sdk": "^0.19.0",
+    "express": "^5.2.1"
+  }
+}

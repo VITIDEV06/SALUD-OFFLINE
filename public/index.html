@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="es" data-tema="oscuro">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Centinela — IA médica local</title>
+<link rel="icon" href="img/favicon.png">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+<nav class="lateral">
+  <div class="marca">
+    <img src="img/logo-icono.png" alt="">
+    <div><h1>Centinela</h1><p>IA médica local</p></div>
+  </div>
+  <a class="item" href="#inicio" data-vista="inicio"><svg viewBox="0 0 24 24"><path d="M3 11l9-8 9 8v9a2 2 0 0 1-2 2h-4v-6H9v6H5a2 2 0 0 1-2-2z"/></svg>Inicio</a>
+  <a class="item" href="#triaje" data-vista="triaje"><svg viewBox="0 0 24 24"><path d="M4 3v6a6 6 0 0 0 12 0V3"/><path d="M4 3h2M14 3h2"/><path d="M10 15v2a4 4 0 0 0 8 0v-2"/><circle cx="18" cy="11" r="2"/></svg>Triaje</a>
+  <a class="item" href="#guias" data-vista="guias"><svg viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg>Consultar guías</a>
+  <a class="item" href="#expedientes" data-vista="expedientes"><svg viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg>Expedientes</a>
+  <a class="item" href="#inventario" data-vista="inventario"><svg viewBox="0 0 24 24"><path d="M21 8l-9-5-9 5v8l9 5 9-5z"/><path d="M3 8l9 5 9-5"/><path d="M12 13v8"/></svg>Inventario</a>
+  <a class="item" href="#evidencia" data-vista="evidencia"><svg viewBox="0 0 24 24"><path d="M3 3v18h18"/><path d="M7 14l4-4 3 3 6-6"/></svg>Evidencia</a>
+  <a class="item" href="#acerca" data-vista="acerca"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 8h.01M11 12h1v4h1"/></svg>Cómo funciona</a>
+
+  <div class="estado">
+    <div class="fila-estado"><span class="punto" id="puntoModelo"></span><span id="txtModelo">Cargando modelos…</span></div>
+    <div class="fila-estado"><span class="punto local"></span><span id="txtRed">Sin conexión requerida</span></div>
+    <div class="fila-estado"><span class="punto" id="puntoVision"></span><span id="txtVision">VisionPsy: se carga al usarse</span></div>
+    <div class="fila-estado" id="txtGuias"></div>
+    <button class="tema-btn" id="btnTema" type="button"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg><span>Tema claro</span></button>
+  </div>
+</nav>
+
+<main>
+
+  <!-- ================= INICIO ================= -->
+  <section class="vista" id="vista-inicio">
+    <div class="bienvenida">
+      <div>
+        <h2>Centinela</h2>
+        <p>Triaje asistido, consulta de protocolos, expedientes e inventario para puestos de salud sin conexión. Toda la inteligencia corre en este equipo.</p>
+        <div class="sellos"><span>100% local, sin internet</span><span>Guiado por protocolos MINSA</span><span>IA + reglas de seguridad</span><span>Fuentes y evidencia trazables</span></div>
+      </div>
+      <img src="img/logo-icono.png" alt="">
+    </div>
+    <div class="cifras" id="cifrasInicio"></div>
+    <div class="accesos">
+      <a class="acceso" href="#triaje"><div class="ico"><svg viewBox="0 0 24 24"><path d="M4 3v6a6 6 0 0 0 12 0V3"/><path d="M10 15v2a4 4 0 0 0 8 0v-2"/><circle cx="18" cy="11" r="2"/></svg></div><b>Triaje de pacientes</b><span>Describe el caso y obtén urgencia, alertas y a dónde referir.</span></a>
+      <a class="acceso" href="#guias"><div class="ico"><svg viewBox="0 0 24 24"><path d="M2 4h6a4 4 0 0 1 4 4v12a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v12a3 3 0 0 1 3-3h7z"/></svg></div><b>Consultar guías</b><span>Pregunta a los protocolos cargados, con fuente citada.</span></a>
+      <a class="acceso" href="#inventario"><div class="ico"><svg viewBox="0 0 24 24"><path d="M21 8l-9-5-9 5v8l9 5 9-5z"/><path d="M3 8l9 5 9-5"/><path d="M12 13v8"/></svg></div><b>Inventario por foto</b><span>Fotografía la caja y VisionPsy la registra.</span></a>
+      <a class="acceso" href="#expedientes"><div class="ico"><svg viewBox="0 0 24 24"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/></svg></div><b>Expedientes</b><span>Historial local por paciente, con nota imprimible.</span></a>
+    </div>
+    <div class="dos-col">
+      <div class="tarjeta"><h3 style="margin-top:0">Actividad reciente</h3><ul class="lista-actividad" id="actividadInicio"></ul></div>
+      <div class="tarjeta"><h3 style="margin-top:0">Estado del sistema</h3><dl class="campos" style="border:0;padding:0;background:transparent" id="sistemaInicio"></dl></div>
+    </div>
+  </section>
+
+  <!-- ================= TRIAJE ================= -->
+  <section class="vista" id="vista-triaje">
+    <h2>Triaje de pacientes</h2>
+    <p class="sub">Describe el caso como lo contaría el paciente. El sistema clasifica la urgencia, señala alertas y orienta a dónde referir.</p>
+    <div class="consulta">
+      <form class="tarjeta" id="form" autocomplete="off">
+        <label for="nombre">Paciente</label>
+        <div class="fila3">
+          <input id="nombre" placeholder="Nombre (opcional)">
+          <input id="edad" placeholder="Edad" inputmode="numeric">
+          <select id="sexo"><option value="">Sexo</option><option>F</option><option>M</option></select>
+        </div>
+        <label for="cedula">Cédula</label>
+        <input id="cedula" placeholder="Opcional, para historial">
+        <div class="historial" id="historialPaciente"></div>
+        <label for="descripcion">Motivo de consulta</label>
+        <textarea id="descripcion" required placeholder="Ej: mujer de 45 años, dolor de cabeza fuerte desde hace 3 días, visión borrosa, presión 170/110"></textarea>
+        <p class="ayuda">Incluye edad, síntomas, desde cuándo y signos vitales. Escribe "sin fiebre" o "no tiene dolor" cuando algo esté descartado.</p>
+        <button class="btn primario grande" id="btnEvaluar" type="submit">Evaluar caso</button>
+      </form>
+      <div class="resultado" id="resultado">
+        <div class="vacio"><strong>Sin consulta activa</strong>Completa el motivo de consulta y pulsa «Evaluar caso». El resultado aparece aquí en 30 a 90 segundos.</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CONSULTAR GUÍAS ================= -->
+  <section class="vista" id="vista-guias">
+    <h2>Consultar guías</h2>
+    <p class="sub">Pregunta sobre los protocolos cargados en este equipo. Si una respuesta no tiene respaldo en las guías, se indica; las dosis solo se responden con guía.</p>
+    <div class="chat">
+      <div class="hilo" id="hilo">
+        <div class="vacio"><strong>Sin conversación</strong>Ejemplos: «¿cuándo una fiebre en un niño es signo de peligro?», «¿con qué se inicia el tratamiento de hipertensión?», «¿qué es una emergencia obstétrica?»</div>
+      </div>
+      <div>
+        <div class="sugerencias">
+          <button type="button" data-q="¿Con qué medicamentos se inicia el tratamiento de la hipertensión arterial?">Inicio de tratamiento HTA</button>
+          <button type="button" data-q="¿Cuáles son los signos de peligro en un menor de 2 meses?">Signos de peligro en lactante</button>
+          <button type="button" data-q="¿Qué dosis de amoxicilina le doy a un niño de 15 kg?">Dosis sin guía (prueba de seguridad)</button>
+        </div>
+        <form class="entrada" id="formGuias" autocomplete="off">
+          <input id="pregunta" placeholder="Escribe tu pregunta">
+          <button class="btn primario" type="submit" id="btnPreguntar">Preguntar</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= EXPEDIENTES ================= -->
+  <section class="vista" id="vista-expedientes">
+    <h2>Expedientes</h2>
+    <p class="sub">Todas las consultas se guardan en este equipo. Ningún dato sale del dispositivo.</p>
+    <div id="listaExpedientes"></div>
+    <div id="detalleExpediente"></div>
+  </section>
+
+  <!-- ================= INVENTARIO ================= -->
+  <section class="vista" id="vista-inventario">
+    <h2>Inventario</h2>
+    <p class="sub">Fotografía la caja o etiqueta del medicamento: VisionPsy lee nombre, concentración, lote y vencimiento. Revisa y confirma antes de guardar.</p>
+    <div class="inventario">
+      <div class="tarjeta">
+        <div class="zona-foto" id="zonaFoto">
+          <div><b>Tomar o subir foto</b><br><small>JPG o PNG. Se reduce a 768 px antes de enviarla al modelo.</small></div>
+          <img id="previa" alt="" hidden>
+        </div>
+        <input type="file" id="archivoFoto" accept="image/*" capture="environment" hidden>
+        <div class="lectura" id="lecturaVision" hidden></div>
+        <form id="formItem" autocomplete="off" style="margin-top:14px">
+          <div class="fila">
+            <div><label for="itNombre">Principio activo</label><input id="itNombre" required placeholder="Metformina"></div>
+            <div><label for="itMarca">Marca</label><input id="itMarca" placeholder="Ficonax"></div>
+          </div>
+          <div class="fila">
+            <div><label for="itConc">Concentración</label><input id="itConc" placeholder="500 mg"></div>
+            <div><label for="itForma">Forma</label><input id="itForma" placeholder="tabletas"></div>
+          </div>
+          <div class="fila">
+            <div><label for="itLote">Lote</label><input id="itLote"></div>
+            <div><label for="itVence">Vence (MM/AAAA)</label><input id="itVence" placeholder="03/2027"></div>
+          </div>
+          <div class="fila">
+            <div><label for="itLab">Laboratorio</label><input id="itLab"></div>
+            <div><label for="itCant">Cantidad a ingresar</label><input id="itCant" type="number" min="0" value="1"></div>
+          </div>
+          <input type="hidden" id="itOrigen" value="manual">
+          <button class="btn primario grande" type="submit">Agregar al inventario</button>
+        </form>
+      </div>
+      <div>
+        <div class="cifras" id="cifrasInv"></div>
+        <div class="encabezado"><h3 style="margin:0">Existencias por principio activo</h3><span class="nota" id="resumenInv"></span></div>
+        <div id="tablaInventario" style="margin-top:12px"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= EVIDENCIA ================= -->
+  <section class="vista" id="vista-evidencia">
+    <h2>Evidencia</h2>
+    <p class="sub">Resultados de la evaluación con casos sintéticos y rendimiento medido en este equipo.</p>
+    <div id="evidencia"></div>
+  </section>
+
+  <!-- ================= ACERCA ================= -->
+  <section class="vista" id="vista-acerca">
+    <h2>Cómo funciona</h2>
+    <p class="sub">Qué hace Centinela, qué no hace, y por qué corre sin internet.</p>
+    <div class="prosa">
+      <p>Centinela es una herramienta de apoyo para puestos de salud sin conexión estable. Toda la inteligencia corre en la propia computadora: no hay servidores, no hay nube, y los datos del paciente nunca salen del equipo.</p>
+      <h3>Tres capas, en este orden</h3>
+      <ul>
+        <li><b>Protocolo.</b> Reglas fijas detectan signos de peligro. Si una se activa, el caso sube de nivel sin importar lo que opine el modelo.</li>
+        <li><b>Guías locales.</b> Se buscan los fragmentos más relevantes de los protocolos del MINSA cargados en el equipo y solo se usan si superan un umbral de relevancia.</li>
+        <li><b>Modelos especializados de Tether QVAC.</b> MedPsy razona sobre el caso y redacta la orientación; VisionPsy lee etiquetas de medicamentos para el inventario.</li>
+      </ul>
+      <h3>Lo que no hace</h3>
+      <ul>
+        <li>No diagnostica ni prescribe. Clasifica urgencia y orienta.</li>
+        <li>No sustituye el criterio del personal de salud.</li>
+        <li>Puede equivocarse, sobre todo en casos intermedios. Cada respuesta muestra sus fuentes y sus alertas por separado.</li>
+      </ul>
+      <h3>Modelos en este equipo</h3>
+      <div id="modelosInfo"></div>
+    </div>
+  </section>
+
+</main>
+
+<div id="nota"></div>
+<script src="js/app.js"></script>
+</body>
+</html>
